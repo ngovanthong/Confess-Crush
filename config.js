@@ -1,20 +1,18 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    titleWeb: "8/3 của nhà Đậu",
+    introTitle: 'Tình yêu của nhà Đậu',
+    introDesc: `Ngày 8/3 thật đặc biệt! 
+    Chúc cho những cô gái tuyệt vời nhất của nhà Đậu thật nhiều sức khỏe, luôn luôn hạnh phúc và tràn đầy sức sống!`,
+    btnIntro: 'Ấn vô đây để nhận quà nha ^^',
+    title: 'Deadline là thức ăn tốt nhất cho sự phát triển toàn diện của trẻ nhỏ 🥰',
+    desc: 'Nhận "thức ăn" của nhà Đậu làm quà nha ^^ ',
+    btnYes: 'Thích quá ạ ^^ Yêu Đậu lắm <3',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    question: 'Hihi bạn thích deadline(s) thế cơ à ^^',
+    btnReply: 'Gửi cho Đậu :3',
+    reply: 'Thích lắm thích lắm :)) Mong có nhiều deadline hơn ạ ^^',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'Thi cử xong xuôi rùi về ta chạy deadline hè :))',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://fb.com/Yeudaunhattrendoi' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
